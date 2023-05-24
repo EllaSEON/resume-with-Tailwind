@@ -13,3 +13,7 @@
 
 # 3. 업데이트 예정 사항
 - lorem에서 글귀 업데이트 해야함
+
+![image](https://github.com/EllaSEON/resume-with-Tailwind/assets/107895498/bafda700-3913-476d-a485-a0a23b1afc43)
+
+
